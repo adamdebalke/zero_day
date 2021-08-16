@@ -1,0 +1,1 @@
+#about command Uname and writhe the answer on the other file
